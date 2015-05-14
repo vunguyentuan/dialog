@@ -1,1 +1,1 @@
-module.exports = require('./lib/DialogWrap');
+module.exports = require('./lib/DialogWrap-compiled');
